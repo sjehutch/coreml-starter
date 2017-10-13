@@ -1,4 +1,4 @@
-# coreml-starter
+# Core ML - Starter
 IOS coreml starter
 
 ### Clone Project and run it 
@@ -12,5 +12,8 @@ IOS coreml starter
 1. Click on the model and make sure its added to your target 
 
 ![alt text](http://g.recordit.co/udHRgNMo76.gif "1")
+
+![alt text](http://g.recordit.co/5LqXEReORU.gif "2")
+
 
 
