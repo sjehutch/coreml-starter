@@ -75,7 +75,7 @@ extension ViewController {
 
   func detectScene(image: CIImage) {
     answerLabel.text = "detecting scene..."
-    guard let model = try? VNCoreMLModel(for: GoogLeNetPlaces().model) else {
+    guard let model = try? VNCoreMLModel(for: MobileNet().model) else {
       fatalError("can't load Places ML model")
     }
 
