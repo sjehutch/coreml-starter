@@ -303,7 +303,7 @@
 				DEVELOPMENT_TEAM = 5MB4DBCXK2;
 				INFOPLIST_FILE = SceneDetector/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.razeware.SceneDetector;
+				PRODUCT_BUNDLE_IDENTIFIER = net.scotthutchinson.fooddetector;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				SWIFT_VERSION = 4.0;
@@ -320,7 +320,7 @@
 				DEVELOPMENT_TEAM = 5MB4DBCXK2;
 				INFOPLIST_FILE = SceneDetector/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.razeware.SceneDetector;
+				PRODUCT_BUNDLE_IDENTIFIER = net.scotthutchinson.fooddetector;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				SWIFT_VERSION = 4.0;
