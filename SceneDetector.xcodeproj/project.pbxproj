@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		42D3A0971EEA4D2E005C15DF /* GoogLeNetPlaces.mlmodel in Sources */ = {isa = PBXBuildFile; fileRef = 42D3A0961EEA4D2E005C15DF /* GoogLeNetPlaces.mlmodel */; };
 		7B89C8F01F9168E200186178 /* MobileNet.mlmodel in Sources */ = {isa = PBXBuildFile; fileRef = 7B89C8EF1F9168DB00186178 /* MobileNet.mlmodel */; };
+		7BCABB311FA0DCF300BAF5FC /* Food101.mlmodel in Sources */ = {isa = PBXBuildFile; fileRef = 7BCABB301FA0DCEF00BAF5FC /* Food101.mlmodel */; };
 		CD8A65A11EE7EC0700942922 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD8A65A01EE7EC0700942922 /* AppDelegate.swift */; };
 		CD8A65A31EE7EC0700942922 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD8A65A21EE7EC0700942922 /* ViewController.swift */; };
 		CD8A65A61EE7EC0700942922 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CD8A65A41EE7EC0700942922 /* Main.storyboard */; };
@@ -20,6 +21,7 @@
 /* Begin PBXFileReference section */
 		42D3A0961EEA4D2E005C15DF /* GoogLeNetPlaces.mlmodel */ = {isa = PBXFileReference; lastKnownFileType = file.mlmodel; path = GoogLeNetPlaces.mlmodel; sourceTree = "<group>"; };
 		7B89C8EF1F9168DB00186178 /* MobileNet.mlmodel */ = {isa = PBXFileReference; lastKnownFileType = file.mlmodel; path = MobileNet.mlmodel; sourceTree = "<group>"; };
+		7BCABB301FA0DCEF00BAF5FC /* Food101.mlmodel */ = {isa = PBXFileReference; lastKnownFileType = file.mlmodel; path = Food101.mlmodel; sourceTree = "<group>"; };
 		CD8A659D1EE7EC0700942922 /* SceneDetector.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SceneDetector.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		CD8A65A01EE7EC0700942922 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		CD8A65A21EE7EC0700942922 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -73,6 +75,7 @@
 		CD8A65B21EE7EC4100942922 /* Resources */ = {
 			isa = PBXGroup;
 			children = (
+				7BCABB301FA0DCEF00BAF5FC /* Food101.mlmodel */,
 				7B89C8EF1F9168DB00186178 /* MobileNet.mlmodel */,
 				42D3A0961EEA4D2E005C15DF /* GoogLeNetPlaces.mlmodel */,
 				CD8A65A41EE7EC0700942922 /* Main.storyboard */,
@@ -160,6 +163,7 @@
 				CD8A65A31EE7EC0700942922 /* ViewController.swift in Sources */,
 				CD8A65A11EE7EC0700942922 /* AppDelegate.swift in Sources */,
 				42D3A0971EEA4D2E005C15DF /* GoogLeNetPlaces.mlmodel in Sources */,
+				7BCABB311FA0DCF300BAF5FC /* Food101.mlmodel in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
