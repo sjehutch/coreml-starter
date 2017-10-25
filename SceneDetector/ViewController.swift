@@ -17,7 +17,7 @@ class ViewController: UIViewController {
   override func viewDidLoad() {
     super.viewDidLoad()
 
-    guard let image = UIImage(named: "train_night") else {
+    guard let image = UIImage(named: "cheese") else {
       fatalError("no starting image")
     }
 
